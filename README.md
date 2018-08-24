@@ -4,3 +4,7 @@ Mainly solving problems from textbooks:
 1.Introduction to Time Series and Forecasting, Brockwell & Davis :1996  
 2.Time Series Analysis and its Applications, Shumway & Stoffer. : 2000  
 
+Homework 1 : Stability and detrending  
+Homework 2 : Causal and Invertable  
+Homework 3: ACF / PACF / Forecasting   
+Homework 4: Estimation  
