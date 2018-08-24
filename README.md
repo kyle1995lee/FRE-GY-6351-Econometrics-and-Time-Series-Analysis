@@ -1,5 +1,5 @@
 # FRE-GY-6351-Econometrics-and-Time-Series-Analysis
-Homework codes
+Homework codes for Econometrics and Times Series Analysis that uses R
 Mainly solving problems from textbooks:  
 1.Introduction to Time Series and Forecasting, Brockwell & Davis :1996  
 2.Time Series Analysis and its Applications, Shumway & Stoffer. : 2000  
